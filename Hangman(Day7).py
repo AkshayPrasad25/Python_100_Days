@@ -32,7 +32,7 @@ while not end_game:
 
     if "_" not in display:
         end_game = True
-        print("You win. :D ")
+        print("You win. :D  ")
     from Hangman_art import stages
     print(stages[lives])
 
