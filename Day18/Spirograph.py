@@ -22,3 +22,6 @@ def draw(size_of_gap):
 
 
 draw(5)
+
+screen = Screen()
+screen.exitonclick()
